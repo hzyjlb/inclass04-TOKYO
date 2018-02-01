@@ -47,6 +47,10 @@ Leica Camera AG is a German company that manufactures optics and high end camera
 + Digital M (rangefinder) series
 + R (35 mm film SLR and DSLR) series
 + S (medium format DSLR) series
++ L-mount Cameras
++ Digilux (digital) series
++ Digital compact camera series
++ Instant Cameras
 
 
 ## Hasselblad
