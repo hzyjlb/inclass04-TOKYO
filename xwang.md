@@ -3,15 +3,15 @@
 ### In-class exercise 5
 ### Jan 31st, 2018
 
-Introduction to three photographic equipment manufacturers: company history and main product(camera series. 
+Introduction to three photographic equipment manufacturers: Fuijifilm, Leica and Hasselblad. This page focus on the company history and main product (camera) series of the three brands. 
 
 ## Fujifilm
 ![Fujifilm Logo](https://github.com/hzyjlb/inclass04-TOKYO/blob/master/media/fujifilm.png)
 
 ### About
->Fujifilm Holdings Corporation, (富士フイルム株式会社 Fujifuirumu Kabushiki-kaisha), better known as Fujifilm or simply Fuji, stylized as FUJiFILM, is a Japanese multinational photography and imaging company headquartered in Tokyo.
+Fujifilm Holdings Corporation, (富士フイルム株式会社 Fujifuirumu Kabushiki-kaisha), better known as Fujifilm or simply Fuji, stylized as FUJiFILM, is a Japanese multinational photography and imaging company headquartered in Tokyo.
 
->Fujifilm's principal activities are the development, production, sale and servicing of business document solutions, medical imaging and diagnostics equipment, cosmetics, optical films for flat panel displays, optical devices, photocopiers and printers, digital cameras, color film, color paper, photofinishing equipment, photofinishing chemicals, graphic arts equipment and materials.
+Fujifilm's principal activities are the development, production, sale and servicing of business document solutions, medical imaging and diagnostics equipment, cosmetics, optical films for flat panel displays, optical devices, photocopiers and printers, digital cameras, color film, color paper, photofinishing equipment, photofinishing chemicals, graphic arts equipment and materials.
 
 ### History
 >Fuji Photo Film Co., Ltd. was established in 1934 with the aim of being the first Japanese producer of photographic films. Over the following 10 years, the company produced photographic films, motion-picture films and X-ray films. In the 1940s, Fuji Photo entered the optical glasses, lenses and equipment markets. After the Second World War, Fuji Photo diversified, penetrating the medical (X-ray diagnosis), printing, electronic imaging and magnetic materials fields. In 1962, Fuji Photo and U.K.-based Rank Xerox Limited (now Xerox Limited) launched Fuji Xerox Co., Ltd. through a joint venture.
@@ -31,7 +31,7 @@ Introduction to three photographic equipment manufacturers: company history and 
 ## Leica
 ![Leica Logo](https://github.com/hzyjlb/inclass04-TOKYO/blob/master/media/leica.png)
 ### About
->Leica Camera AG is a German company that manufactures optics and high end cameras. The company was founded by Ernst Leitz in 1914. The name Leica is derived from the first three letters of his surname (Leitz) and the first two of the word camera: lei-ca.
+Leica Camera AG is a German company that manufactures optics and high end cameras. The company was founded by Ernst Leitz in 1914. The name Leica is derived from the first three letters of his surname (Leitz) and the first two of the word camera: lei-ca.
 
 ### History
 >The first 35 mm film Leica prototypes were built by Oskar Barnack at Ernst Leitz Optische Werke, Wetzlar, in 1913. Intended as a compact camera for landscape photography, particularly during mountain hikes, the Leica was the first practical 35 mm camera that used standard cinema 35 mm film. The Leica transports the film horizontally, extending the frame size to 24×36mm with a 2:3 aspect ratio, instead of the 18×24 mm of cinema cameras, which transport the film vertically.
@@ -53,9 +53,9 @@ Introduction to three photographic equipment manufacturers: company history and 
 ![Hasselblad Logo](https://github.com/hzyjlb/inclass04-TOKYO/blob/master/media/hasselblad.png)
 
 ### About
->Victor Hasselblad AB is a Swedish manufacturer of medium-format cameras, photographic equipment and image scanners based in Gothenburg, Sweden. The company is best known for the classic medium-format cameras it produced since World War II.
+Victor Hasselblad AB is a Swedish manufacturer of medium-format cameras, photographic equipment and image scanners based in Gothenburg, Sweden. The company is best known for the classic medium-format cameras it produced since World War II.
 
->Perhaps the most famous use of the Hasselblad camera was during the Apollo program missions when humans first landed on the Moon. Almost all of the still photographs taken during these missions used modified Hasselblad cameras.
+Perhaps the most famous use of the Hasselblad camera was during the Apollo program missions when humans first landed on the Moon. Almost all of the still photographs taken during these missions used modified Hasselblad cameras.
 
 ### History
 >The company was established in 1841 in Gothenburg, Sweden, by Fritz Wiktor Hasselblad, as a trading company, F. W. Hasselblad and Co. The founder's son, Arvid Viktor Hasselblad, was interested in photography and started the photographic division of the company. Hasselblad's corporate website quotes him as saying I certainly don’t think that we will earn much money on this, but at least it will allow us to take pictures for free.
@@ -79,7 +79,5 @@ Introduction to three photographic equipment manufacturers: company history and 
 
 ### Citations
 [Wikipedia: Fujifilm](https://en.wikipedia.org/wiki/Fujifilm)
-
 [Wikipedia: Leica](https://en.wikipedia.org/wiki/Leica_Camera)
-
 [Wikipedia: Hasselblad](https://en.wikipedia.org/wiki/Hasselblad)
