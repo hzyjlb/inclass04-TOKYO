@@ -1,6 +1,6 @@
 # Photographic Equipment Manufacturers
 ## Xuanyang Wang
-### In-class exercise 5
+### In-class Assignment 05
 ### Jan 31st, 2018
 
 Introduction to three photographic equipment manufacturers: Fuijifilm, Leica and Hasselblad. This page focus on the company history and main product (camera) series of the three brands. 
