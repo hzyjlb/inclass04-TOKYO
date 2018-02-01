@@ -3,6 +3,8 @@
 ### In-class exercise 5
 ### Jan 31st, 2018
 
+Introduction to three photographic equipment manufacturers: company history and main product(camera series. 
+
 ## Fujifilm
 ![Fujifilm Logo](https://github.com/hzyjlb/inclass04-TOKYO/blob/master/media/fujifilm.png)
 
@@ -76,6 +78,8 @@
 
 
 ### Citations
-[Fujifilm](https://en.wikipedia.org/wiki/Fujifilm)
-[Leica](https://en.wikipedia.org/wiki/Leica_Camera)
-[Hasselblad](https://en.wikipedia.org/wiki/Hasselblad)
+[Wikipedia: Fujifilm](https://en.wikipedia.org/wiki/Fujifilm)
+
+[Wikipedia: Leica](https://en.wikipedia.org/wiki/Leica_Camera)
+
+[Wikipedia: Hasselblad](https://en.wikipedia.org/wiki/Hasselblad)
