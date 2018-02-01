@@ -78,6 +78,6 @@ Perhaps the most famous use of the Hasselblad camera was during the Apollo progr
 
 
 ### Citations
-[Wikipedia: Fujifilm](https://en.wikipedia.org/wiki/Fujifilm)
-[Wikipedia: Leica](https://en.wikipedia.org/wiki/Leica_Camera)
-[Wikipedia: Hasselblad](https://en.wikipedia.org/wiki/Hasselblad)
+Wikipedia: Fujifilm <https://en.wikipedia.org/wiki/Fujifilm> 
+Wikipedia: Leica Camera <https://en.wikipedia.org/wiki/Leica_Camera>   
+Wikipedia: Hasselblad <https://en.wikipedia.org/wiki/Hasselblad>  
