@@ -19,13 +19,13 @@ Fujifilm's principal activities are the development, production, sale and servic
 >From the mid-1950s, Fuji Photo accelerated the establishment of overseas sales bases. In the 1980s, Fuji Photo expanded its production and other bases overseas, stepping up the pace of its business globalization. Meanwhile, Fuji Photo developed digital technologies for its photo-related, medical and printing businesses.
 
 ### Products
-+ The Fujifilm FinePix series of digital cameras
-+ The Clear Shot series of 35mm compact cameras
-+ Instax series of instant camera
-+ Fotorama series of instant camera
-+ Various rangefinder cameras, and older Fujica film cameras
-+ Professional film cameras such as the GA645, GW670, GW690, GF670, GF670W and Fuji GX680 6x8cm medium format cameras
-+ Fujinon camera lenses and binoculars
+* The Fujifilm FinePix series of digital cameras
+* The Clear Shot series of 35mm compact cameras
+* Instax series of instant camera
+* Fotorama series of instant camera
+* Various rangefinder cameras, and older Fujica film cameras
+* Professional film cameras such as the GA645, GW670, GW690, GF670, GF670W and Fuji GX680 6x8cm medium format cameras
+* Fujinon camera lenses and binoculars
 
 
 ## Leica
@@ -39,18 +39,18 @@ Leica Camera AG is a German company that manufactures optics and high end camera
 >The Leica had several model iterations, and in 1923, Barnack convinced his boss, Ernst Leitz II, to make a preproduction series of 31 cameras for the factory and outside photographers to test. Though the prototypes received mixed reception, Ernst Leitz decided in 1924 to produce the camera. It was an immediate success when introduced at the 1925 Leipzig Spring Fair as the Leica I (for Leitz camera). The focal plane shutter has a range from 1/20 to 1/500 second, in addition to a Z for Zeit (time) position.
 
 ### Products
-+ C (point and shoot) series
-+ Mini series
-+ Minilux series
-+ Cx series
-+ M (rangefinder) film series
-+ Digital M (rangefinder) series
-+ R (35 mm film SLR and DSLR) series
-+ S (medium format DSLR) series
-+ L-mount Cameras
-+ Digilux (digital) series
-+ Digital compact camera series
-+ Instant Cameras
+* C (point and shoot) series
+* Mini series
+* Minilux series
+* Cx series
+* M (rangefinder) film series
+* Digital M (rangefinder) series
+* R (35 mm film SLR and DSLR) series
+* S (medium format DSLR) series
+* L-mount Cameras
+* Digilux (digital) series
+* Digital compact camera series
+* Instant Cameras
 
 
 ## Hasselblad
@@ -67,18 +67,18 @@ Perhaps the most famous use of the Hasselblad camera was during the Apollo progr
 >In 1877, Arvid Hasselblad commissioned the construction of Hasselblad's long-time headquarters building, in use until 2002. While on honeymoon, Arvid Hasselblad met George Eastman, founder of Eastman Kodak. In 1888, Hasselblad became the sole Swedish distributor of Eastman's products. The business was so successful that in 1908, the photographic operations were spun off into their own corporation, Fotografiska AB. Operations included a nationwide network of shops and photo labs. Management of the company eventually passed to Karl Erik Hasselblad, Arvid's son (grandson of founder F. W.). Karl Erik wanted his son, Victor Hasselblad, to have a wide understanding of the camera business, and sent him to Dresden, Germany, then the world center of the optics industry, at age 18 (c. 1924).
 
 ### Products
-+ HK7 (1941–1945)
-+ SKa4 (1941–1945)
-+ 1600 F (1948–1953)
-+ 1000 F (1953–1957)
-+ V-System 500 (1957–present)
-+ V-System 2000 and 200 (1977–2004)
-+ V-System Superwide (1954–2006)
-+ V-System Flexbody (1995–2003)
-+ XPan (1998–2006) (designed and manufactured by Fujifilm)
-+ H-System (2002–present)[19]
-+ Lunar (announced September 2012, shipped early 2013)
-+ X1D (announced June 2016) – a medium-format mirrorless camera
+* HK7 (1941–1945)
+* SKa4 (1941–1945)
+* 1600 F (1948–1953)
+* 1000 F (1953–1957)
+* V-System 500 (1957–present)
+* V-System 2000 and 200 (1977–2004)
+* V-System Superwide (1954–2006)
+* V-System Flexbody (1995–2003)
+* XPan (1998–2006) (designed and manufactured by Fujifilm)
+* H-System (2002–present)[19]
+* Lunar (announced September 2012, shipped early 2013)
+* X1D (announced June 2016) – a medium-format mirrorless camera
 
 
 ### Citations
