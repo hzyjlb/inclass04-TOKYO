@@ -76,7 +76,7 @@ Perhaps the most famous use of the Hasselblad camera was during the Apollo progr
 * V-System Superwide (1954–2006)
 * V-System Flexbody (1995–2003)
 * XPan (1998–2006) (designed and manufactured by Fujifilm)
-* H-System (2002–present)[19]
+* H-System (2002–present)
 * Lunar (announced September 2012, shipped early 2013)
 * X1D (announced June 2016) – a medium-format mirrorless camera
 
