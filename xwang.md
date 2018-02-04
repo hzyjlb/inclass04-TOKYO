@@ -3,7 +3,7 @@
 ### In-class Assignment 05
 ### Jan 31st, 2018
 
-Introduction to three photographic equipment manufacturers: Fuijifilm, Leica and Hasselblad. This page focus on the company history and main product (camera) series of the three brands. 
+Introduction to three photographic equipment manufacturers: Fuijifilm, Leica and Hasselblad. This webpage focuses on the company history and main product (camera) series of the three brands. 
 
 ## Fujifilm
 ![Fujifilm Logo](https://github.com/hzyjlb/inclass04-TOKYO/blob/master/media/fujifilm.png)
