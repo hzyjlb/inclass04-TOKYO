@@ -15,9 +15,7 @@ The company was founded on January 25, 1964, as #Blue Ribbon Sports, by Bill Bow
 
 ### Sponsorship 
 >>Nike pays top athletes in many sports to use their products and promote and advertise their technology and design.
-
 Nike's first professional athlete endorser was Romanian tennis player Ilie Năstase. The first track endorser was distance runner Steve Prefontaine. Prefontaine was the prized pupil of the company's co-founder, Bill Bowerman, while he coached at the University of Oregon. Today, the Steve Prefontaine Building is named in his honor at Nike's corporate headquarters.
-
 Nike has also sponsored many other successful track and field athletes over the years, such as Carl Lewis, Jackie Joyner-Kersee and Sebastian Coe. The signing of basketball player Michael Jordan in 1984, with his subsequent promotion of Nike over the course of his career, with Spike Lee as Mars Blackmon, proved to be one of the biggest boosts to Nike's publicity and sales.
 
 ## ADIDAS
@@ -30,7 +28,6 @@ Adidas' logo is three stripes, which is used on the company's clothing and shoe 
 
 ### Sponsorship
 >>Adidas has numerous major kit deals with football clubs worldwide, including their main sponsor Bayern Munich.[73] Other clubs include Real Madrid,[74] Manchester United, River Plate, Milan and Juventus. Moreover, their sponsored national teams include Germany, Spain, Mexico, Argentina, Sweden, Japan and Russia.
-
 Adidas has sponsored numerous players, including Lionel Messi, Zinedine Zidane, Kaká, David Beckham, Steven Gerrard, Gareth Bale, Thomas Müller, Xavi, Mesut Özil, James Rodríguez, Keylor Navas, Arjen Robben, Paul Pogba, Dele Alli, Luis Suárez, Ivan Rakitić, Diego Costa, Iker Casillas, David Alaba, Roberto Firmino and Manuel Neuer.
 
 ## UNDERARMOUR
@@ -41,8 +38,8 @@ Adidas has sponsored numerous players, including Lionel Messi, Zinedine Zidane, 
 >> #Under Armour, Inc. is an American company that manufactures footwear, sports and casual apparel.Under Armour's global headquarters are located in Baltimore, Maryland with additional offices located in Amsterdam (European headquarters), Austin, Guangzhou, Hong Kong, Houston, Jakarta, London, Mexico City, Munich, New York City, Panama City (international headquarters), Paris, Pittsburgh, Portland, San Francisco, São Paulo, Santiago, Seoul, Shanghai (Greater Chinese headquarters), and Toronto. 
 
 
-###Sponsorships
-Under Armour promotes its products by sponsorship agreements with the following celebrity athletes, professional teams and college athletic teams, a field in which it competes with other sports apparel companies.
+### Sponsorships
+>> Under Armour promotes its products by sponsorship agreements with the following celebrity athletes, professional teams and college athletic teams, a field in which it competes with other sports apparel companies.
 
 
 ### Football 
@@ -52,7 +49,7 @@ Under Armour promotes its products by sponsorship agreements with the following 
 +   Dee Ford
 +  Myles Jack
 
-###B aseball 
+### Baseball 
 +  Jeff Francoeur
 +   Freddie Freeman
 +  Hyun-soo Kim
