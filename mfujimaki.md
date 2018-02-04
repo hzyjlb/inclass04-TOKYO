@@ -40,8 +40,10 @@ Adidas has sponsored numerous players, including Lionel Messi, Zinedine Zidane, 
 
 >> #Under Armour, Inc. is an American company that manufactures footwear, sports and casual apparel.Under Armour's global headquarters are located in Baltimore, Maryland with additional offices located in Amsterdam (European headquarters), Austin, Guangzhou, Hong Kong, Houston, Jakarta, London, Mexico City, Munich, New York City, Panama City (international headquarters), Paris, Pittsburgh, Portland, San Francisco, São Paulo, Santiago, Seoul, Shanghai (Greater Chinese headquarters), and Toronto. 
 
+
 ###Sponsorships
 Under Armour promotes its products by sponsorship agreements with the following celebrity athletes, professional teams and college athletic teams, a field in which it competes with other sports apparel companies.
+
 
 ### Football 
 +  Anquan Boldin 
